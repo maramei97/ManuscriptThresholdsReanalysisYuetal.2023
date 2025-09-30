@@ -6,7 +6,7 @@ Data analysis workflow to study non-linear and threshold dynamics on soil physic
 - `thresholdfinal.R` – main script running the workflow and producing results/figures.
 
 ## Requirements
-- **R version:** RStudio 2023.09.1+494 "Desert Sunflower" Release (cd7011dce393115d3a7c3db799dda4b1c7e88711, 2023-10-16) for windows Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) RStudio/2023.09.1+494 Chrome/116.0.5845.190 Electron/26.2.4 Safari/537.36.
+- **R version:** 2023.09.1+494 ("Desert Sunflower")
 - **Packages:**
   - dplyr 1.1.4
   - tidyr 1.3.1
